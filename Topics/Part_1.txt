@@ -1,1 +1,20 @@
 
+1. Basic structure of HTML
+
+2. Tags:
+           div tag
+           anchor tag
+           heading tag
+           input tag
+           list tags (ordered list and unordered 
+ list
+           Style tag
+
+3. Linking external css file
+
+4. CSS :
+              Change font size
+              Change background colour
+              Insert image 
+
+5. Concept of id and class
